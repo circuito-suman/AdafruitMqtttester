@@ -31,9 +31,6 @@ pip install paho-mqtt
 
 Feel free to contribute, report issues, or suggest improvements to make this project even better.
 
-Happy clock-making!
-
-
 ## About Me
 
 👋 Hi, I'm Suman Saha, a Computer Science Engineering student passionate about technology and coding.
