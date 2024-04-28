@@ -12,7 +12,7 @@
 </p>
 
 ## About Me
-👋 Hi, I'm [Your Name]. I love building cool projects with Python!
+👋 Hi, I'm [Suman]. I love building cool projects with Python!
 
 ## How to Setup
 1. Clone this repository: `git clone https://github.com/your_username/your_repo.git`
