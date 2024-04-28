@@ -11,8 +11,7 @@
   <strong>A Python script to publish user names to an MQTT topic</strong>
 </p>
 
-## About Me
-👋 Hi, I'm [Suman]. I love building cool projects with Python!
+
 
 ## How to Setup
 1. Clone this repository: `git clone https://github.com/your_username/your_repo.git`
@@ -34,6 +33,8 @@ Feel free to contribute, report issues, or suggest improvements to make this pro
 ## About Me
 
 👋 Hi, I'm Suman Saha, a Computer Science Engineering student passionate about technology and coding.
+ I love building cool projects with Python!
+
 
 
 ### Feel free to reach out and connect with me on GitHub, Instagram and  LinkedIn!
