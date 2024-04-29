@@ -14,8 +14,8 @@
 
 
 ## How to Setup
-1. Clone this repository: `git clone https://github.com/your_username/your_repo.git`
-2. Navigate to the directory: `cd your_repo`
+1. Clone this repository: `git clone https://github.com/circuito-suman/AdafruitMqtttester.git`
+2. Navigate to the directory: `cd AdafruitMqtttester`
 
 ## How to Install Libraries
 You can install the required libraries using pip:
